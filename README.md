@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bahabit254
+- 👋 Hi, I’m Roy Bahati
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning data analysis and software development
 - 💞️ I’m looking to collaborate on data analytics and back end development
